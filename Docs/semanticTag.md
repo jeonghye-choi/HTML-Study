@@ -11,9 +11,13 @@
 : 검색엔진에 중요한 부분과 덜 중요한 부분을 파악할 수 있게 해주어 효과적인 검색을 하도록
 도와준다
 
+<br>
+
 ### ✔ 시맨틱 태그 레이아웃
 
 ![image](https://user-images.githubusercontent.com/54584063/87870353-23490000-c9e2-11ea-8d9d-7caec8692a5e.png)
+
+<br>
 
 
 |  <center>태그</center> |  <center>내용</center> |
@@ -36,6 +40,8 @@
 | <center>\<mark></center>| <center>참조, 하이라이트 표시</center> |
 | <center>\<summary></center>| <center>detials에 대한 보이는 요소 정의</center> |
 | <center>\<time></center>| <center></center> |
+
+<br>
 
 
 ```html
